@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Erum-hub
 - 👀 I’m interested in Data analytics 
 - 🌱 I’m currently learning SQL
-- 📫 How to reach me : e_farooqi@gmail.com
+- 📫 How to reach me : efarooqi@gmail.com
 - 😄 Pronouns: She
 
 <!---
